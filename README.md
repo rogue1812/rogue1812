@@ -1,5 +1,4 @@
-## Hi there 😸. My name is Thuy Dung
-## #Opentowork
+## Hi there 😸. My name is Thuy Dung. I'm a newbie in Data Industry 
 
 
 # 💻Tech Stack
