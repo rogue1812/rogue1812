@@ -1,8 +1,6 @@
 ## Hi there 😸. My name is Thuy Dung
 ## #Opentowork
 
-# 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dung-tr%E1%BA%A7n-2293302a9/) 
 
 # 💻Tech Stack
 
