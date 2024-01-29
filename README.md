@@ -1,4 +1,4 @@
-# Hi there 😸. My name is Thuy Dung. I'm a newbie in Data industry 
+## Hi there 😸. My name is Thuy Dung. I'm a newbie in Data industry 
 
 
 ## 💻Tech Stack
